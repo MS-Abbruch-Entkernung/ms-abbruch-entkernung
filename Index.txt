@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>MS Abbruch & Entkernung – Innenabbruch in Ludwigsburg & Stuttgart</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MS Abbruch & Entkernung – Ihr Spezialist für Innenabbruch, Entkernung, Entrümpelung und Rückbau im Raum Ludwigsburg, Stuttgart & Heilbronn.">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #222;
+      line-height: 1.5;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 20px 15px 25px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    header p {
+      margin: 8px 0 0;
+      color: #ccc;
+      font-size: 0.95rem;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px 15px 40px;
+    }
+    .section {
+      background: #fff;
+      margin-bottom: 20px;
+      padding: 20px 18px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    h2 {
+      margin-top: 0;
+      font-size: 1.4rem;
+      border-left: 4px solid #111;
+      padding-left: 8px;
+    }
+    h3 {
+      margin-top: 0;
+      font-size: 1.1rem;
+    }
+    ul {
+      padding-left: 18px;
+      margin: 8px 0;
+    }
+    li { margin-bottom: 4px; }
+    .cta {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 18px;
+      background: #111;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      font-size: 0.95rem;
+    }
+    .cta:hover {
+      opacity: 0.9;
+    }
+    .flex-two {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .flex-two > div {
+      flex: 1 1 250px;
+    }
+    footer {
+      text-align: center;
+      padding: 18px 10px 25px;
+      font-size: 0.85rem;
+      color: #777;
+      background: #eee;
+    }
+    a {
+      color: #111;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.6rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>MS Abbruch &amp; Entkernung</h1>
+  <p>Innenabbruch · Entkernung · Entrümpelung · Rückbau – Ludwigsburg · Stuttgart · Heilbronn</p>
+</header>
+
+<div class="container">
+
+  <!-- Start / Einleitung -->
+  <section class="section">
+    <h2>Ihr Spezialist für Innenabbruch &amp; Entkernung</h2>
+    <p>
+      MS Abbruch &amp; Entkernung ist Ihr Partner für professionellen Rückbau im Innenbereich.
+      Wir entkernen Wohnungen, Häuser und Gewerbeobjekte vollständig und bereiten alles für die anschließende
+      Sanierung vor – schnell, sauber und zuverlässig.
+    </p>
+    <p>
+      Ob nach Mieterwechsel, bei Modernisierung oder Umbau: Wir übernehmen den kompletten Innenabbruch,
+      inklusive Organisation von Containern und fachgerechter Entsorgung.
+    </p>
+    <a class="cta" href="#kontakt">Kostenlose Besichtigung anfragen</a>
+  </section>
+
+  <!-- Leistungen Innenabbruch -->
+  <section class="section">
+    <h2>Leistungen – Innenabbruch &amp; Rückbau</h2>
+    <div class="flex-two">
+      <div>
+        <h3>Innenabbruch &amp; Entkernung</h3>
+        <ul>
+          <li>Komplette Entkernung von Wohnungen &amp; Häusern</li>
+          <li>Rückbau von Innenwänden und Leichtbauwänden</li>
+          <li>Entfernen von Deckenverkleidungen und Trockenbau</li>
+          <li>Rückbau in Büros, Läden und Gewerbeeinheiten</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Demontage &amp; Rückbau</h3>
+        <ul>
+          <li>Demontage von Küchen und Bädern (ohne Installateur-Arbeiten)</li>
+          <li>Ausbau von Türen, Zargen und Einbauten</li>
+          <li>Abbruch von Fliesen, Putz und Belägen</li>
+          <li>Entfernung von Bodenbelägen (Fliesen, Estrich, Laminat, Vinyl, Teppich)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="flex-two">
+      <div>
+        <h3>Entsorgung &amp; Container</h3>
+        <ul>
+          <li>Organisation von Containern für Bauschutt &amp; Baumischabfall</li>
+          <li>Abstimmung von Stellplätzen &amp; Zufahrten</li>
+          <li>Abtransport und fachgerechte Entsorgung</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Für wen wir arbeiten</h3>
+        <ul>
+          <li>Wohnungsbaugesellschaften &amp; Hausverwaltungen</li>
+          <li>Bauträger &amp; Projektentwickler</li>
+          <li>Sanierungs- und Trockenbaufirmen</li>
+          <li>Private Eigentümer &amp; Investoren</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Entrümpelung -->
+  <section class="section">
+    <h2>Entrümpelung &amp; Haushaltsauflösung</h2>
+    <p>
+      Neben Innenabbruch und Entkernung übernehmen wir auch komplette
+      <strong>Entrümpelungen von Wohnungen, Häusern und Gewerbeobjekten</strong>.
+      Unsere Teams entfernen Möbel, Sperrmüll, Hausrat und sonstige Gegenstände – inkl.:
+    </p>
+    <ul>
+      <li>Besenreine Räumung</li>
+      <li>Abtransport &amp; Containerstellung</li>
+      <li>Fachgerechte Entsorgung</li>
+    </ul>
+    <p>Ideal bei:</p>
+    <ul>
+      <li>Wohnungswechsel / Mieterwechsel</li>
+      <li>Nachlass &amp; Haushaltsauflösung</li>
+      <li>Sanierungen &amp; Umbauten</li>
+      <li>Vermietungen &amp; Bestandsobjekten</li>
+      <li>Gewerberäumungen</li>
+    </ul>
+    <p>
+      <strong>Ihr Vorteil:</strong> Sie haben nur einen Ansprechpartner für Entrümpelung
+      <em>und</em> Innenabbruch – weniger Organisation, klare Festpreise, ein Ansprechpartner.
+    </p>
+  </section>
+
+  <!-- Über uns -->
+  <section class="section">
+    <h2>Über MS Abbruch &amp; Entkernung</h2>
+    <p>
+      Mein Name ist <strong>Michael Stiefvater</strong>. Mit MS Abbruch &amp; Entkernung habe ich mich auf
+      Innenabbruch, Entkernung und Entrümpelung im Bestand spezialisiert. Statt „alles zu machen“, konzentriere ich mich bewusst
+      auf den Schritt vor der Sanierung: den sauberen Rückbau.
+    </p>
+    <p>
+      Ich arbeite mit eingespielten 3–5-Mann-Kolonnen zusammen, die täglich Innenabbruch und Entrümpelungen ausführen.
+      Dadurch können wir Projekte in kurzer Zeit und mit klaren Festpreisen abwickeln.
+    </p>
+    <ul>
+      <li>Fokus auf Innenabbruch &amp; Entrümpelung statt Vollsanierung</li>
+      <li>Direkter Ansprechpartner – kurze Wege, klare Absprachen</li>
+      <li>Region: Ludwigsburg, Stuttgart, Heilbronn und Umgebung</li>
+    </ul>
+  </section>
+
+  <!-- Ablauf -->
+  <section class="section" id="ablauf">
+    <h2>So läuft ein Auftrag ab</h2>
+    <ol>
+      <li><strong>Anfrage:</strong> Sie schicken kurz Infos zum Objekt (Ort, m², was raus muss).</li>
+      <li><strong>Besichtigung:</strong> Wir sehen uns die Räumlichkeiten vor Ort an (kostenlos).</li>
+      <li><strong>Angebot:</strong> Sie erhalten ein Festpreis-Angebot für Entrümpelung und/oder Innenabbruch.</li>
+      <li><strong>Ausführung:</strong> Unsere Kolonne führt die Arbeiten wie vereinbart aus.</li>
+      <li><strong>Entsorgung:</strong> Container, Abtransport und Entsorgung übernehmen wir.</li>
+      <li><strong>Übergabe:</strong> Besenreine Übergabe, bereit für die weiteren Gewerke.</li>
+    </ol>
+  </section>
+
+  <!-- Kontakt -->
+  <section class="section" id="kontakt">
+    <h2>Kontakt</h2>
+    <p>
+      <strong>MS Abbruch &amp; Entkernung</strong><br>
+      Inhaber: Michael Stiefvater<br>
+      71636 Ludwigsburg<br>
+      Telefon: 0170 / 0000000<br>
+      E-Mail: info@ms-abbruch-entkernung.de
+    </p>
+    <p>
+      Schreiben Sie mir kurz:
+    </p>
+    <ul>
+      <li>Ort / Adresse</li>
+      <li>Art des Objekts (Wohnung, Haus, Gewerbe)</li>
+      <li>Was entkernt / entrümpelt werden soll</li>
+      <li>Gewünschter Zeitraum</li>
+    </ul>
+    <p>Ich melde mich schnell mit einem Terminvorschlag für die Besichtigung.</p>
+  </section>
+
+</div>
+
+<footer>
+  &copy; 2025 MS Abbruch &amp; Entkernung – Michael Stiefvater ·
+  <a href="/impressum">Impressum</a> ·
+  <a href="/datenschutz">Datenschutz</a>
+</footer>
+
+</body>
+</html>
